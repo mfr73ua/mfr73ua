@@ -14,9 +14,6 @@
     </a>
 </p>
 
-![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcfax&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcfax&theme=great-gatsby&layout=compact)](https://github.com/Marcfax) </br>
-
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Artificial Intelligence and Bots </h4>
