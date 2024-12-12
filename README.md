@@ -8,39 +8,51 @@
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - ⚡  Fun fact: I play Padel, Table-Tennis and Percussion! 🎾🎹
   
-## 🛠️ My Skills
-### Programming languages:
-&emsp;
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
-### Misc tools:
-&emsp;
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+<h4> Artificial Intelligence and Bots </h4>
+<span>
+  <img scr="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+</span>
 
-### Databases:
-&emsp;
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+</span>
 
-&emsp;
+<h4> Frameworks </h4>
+<span>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</span>
 
-## 📈 My GitHub Stats and Activity
+<h4> Databases </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</span>
 
-### 💻 Profile Stats
+<h4> IDE </h4>
+<span>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
-<img alt="Marcos's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=marcfax&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Marcfax's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcfax&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<h4> Operating System </h4>
+<span>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+</span>
 
-## Me around the web:
-
-&emsp;
-<a href="https://www.instagram.com/marcfax_/">
-    ![Instagram: marcfax_](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
-</a>
-<a href="https://github.com/Marcfax">
-    ![GitHub: Marcfax](https://img.shields.io/github/followers/marcfax?label=follow&style=socia)
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+</span>
     
 Credit: [Marcfax](https://github.com/Marcfax)
 
