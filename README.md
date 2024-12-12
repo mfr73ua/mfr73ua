@@ -6,7 +6,7 @@
 - 🔭: I’m currently working on many small projects.
 - 🌱: I’m currently learning the concepts of AI. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
-- ⚡  Fun fact: I play Padel, Table-Tennis and the Perccusion! 🎾🎹
+- ⚡  Fun fact: I play Padel, Table-Tennis and Percussion! 🎾🎹
   
 ## 🛠️ My Skills
 ### Programming languages:
@@ -33,7 +33,15 @@
 
 <img alt="Marcos's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=marcfax&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Marcfax's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcfax&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-------
+## Me around the web:
+
+&emsp;
+<a href="https://www.instagram.com/marcfax_/">
+    ![Instagram: marcfax_](https://img.shields.io/badge/-halmyradov-000?&logo=Instagram)
+</a>
+<a href="https://github.com/Marcfax">
+    ![GitHub: Marcfax](https://img.shields.io/github/followers/marcfax?label=follow&style=socia)
+    
 Credit: [Marcfax](https://github.com/Marcfax)
 
 
