@@ -7,7 +7,16 @@
 - 🌱: I’m currently learning the concepts of AI. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - ⚡  Fun fact: I play Padel, Table-Tennis and Percussion! 🎾🎹
-  
+
+<p align="center">
+    <a href="https://github.com/Marcfax/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Marcos's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcfax&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcfax&show_icons=true&count_private=true&theme=great-gatsby) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcfax&theme=great-gatsby&layout=compact)](https://github.com/Marcfax) </br>
+
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Artificial Intelligence and Bots </h4>
@@ -75,7 +84,10 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-</span>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/marcfax_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="30" width="40" /></a>
 
 ---
 Credit: [Marcfax](https://github.com/Marcfax)
