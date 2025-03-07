@@ -5,8 +5,6 @@
 - 🏫: I'm a student of AI Engineering.
 - 🔭: I’m currently working on many small projects.
 - 🌱: I’m currently learning the concepts of AI. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- ⚡  Fun fact: I play Padel, Table-Tennis and Percussion! 🎾🎹
 
 <p align="center">
     <a href="https://github.com/Marcfax/github-readme-streak-stats">
