@@ -6,12 +6,6 @@
 - 🔭: I’m currently working on many small projects.
 - 🌱: I’m currently learning the concepts of AI. 
 
-<p align="center">
-    <a href="https://github.com/Marcfax/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Marcos's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcfax&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Artificial Intelligence and Bots </h4>
