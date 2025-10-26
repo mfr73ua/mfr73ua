@@ -4,4 +4,4 @@
 
 - 🏫: I'm a student of AI Engineering.
 - 🔭: I’m currently working on many small projects.
-- 🌱: I’m currently learning the concepts of AI. 
+- 🌱: I’m learning the concepts of AI. 
